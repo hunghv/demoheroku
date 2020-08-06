@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9Pk1B1AwvRRw3+AWZ21XFKX6DPhUoWM/g92V1nI02OOfqOaDO+IuzzZt0GAkChiHY1D7dgCxnHYwWiHGjeRZtw==",
+  "success": true,
+  "projectFilePath": "J:\\Project_Myhome\\dotnet_project\\demo_heroku\\demo_heroku\\demo_heroku.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hungh\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
